@@ -1,0 +1,6 @@
+21:00:57.015 [main] INFO  com.javaacademy.shop.Runner - Создан товар Food(super=Product(price=100, name=яблоко), calories=50) 
+21:00:57.026 [main] INFO  com.javaacademy.shop.Runner - Создан товар Food(super=Product(price=500, name=пицца), calories=500) 
+21:00:57.027 [main] INFO  com.javaacademy.shop.common.Cashier - Food(super=Product(price=100, name=яблоко), calories=50)
+21:00:57.027 [main] INFO  com.javaacademy.shop.common.Cashier - Food(super=Product(price=500, name=пицца), calories=500)
+22:15:20.937 [main] INFO  com.javaacademy.shop.drug.Runner - Создано новое лекарство Drug(super=Product(price=250, name=paracetamol), isPrescription=false) 
+22:15:20.943 [main] INFO  com.javaacademy.shop.common.Cashier - Drug(super=Product(price=250, name=paracetamol), isPrescription=false)

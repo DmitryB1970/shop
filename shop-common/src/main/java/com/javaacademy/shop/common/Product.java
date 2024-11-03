@@ -1,12 +1,11 @@
-package com.javaacademy.shop_common;
+package com.javaacademy.shop.common;
 
-import lombok.*;
-import lombok.experimental.SuperBuilder;
+import lombok.Data;
+import lombok.NonNull;
 
 import java.math.BigDecimal;
 
 @Data
-@SuperBuilder
 public class Product {
 
     @NonNull
